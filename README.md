@@ -2,19 +2,5 @@
 
 A static React app built with Vite and Tailwind CSS.
 
-## Run locally
-
-```sh
-bun install
-bun run dev:whispurr
-```
-
-## Build for deployment
-
-```sh
-bun run build:whispurr
-cd apps/whispurr
-bun run preview
-```
-
-The production output is generated in `dist/`.
+- Source code tracked in the [portfolio-monorepo](https://github.com/jvanhouts/portfolio-monorepo) repository.
+- Deployed project on this repo's [deployment branch](https://github.com/jvanhouts/whispurr/tree/deployment).
